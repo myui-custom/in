@@ -148,7 +148,7 @@ body {
     bottom:0;
     left:45vw;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content:center;
     z-index:4;
     transition:0.4s ease-in-out;
