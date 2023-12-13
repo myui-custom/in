@@ -1,7 +1,7 @@
 #myui custom
+- https://myuicustom.github.io/
 
-
-- (https://github.com/TheKaushikGoswami) - For the base of template
+- thanks (https://github.com/TheKaushikGoswami) - For the base of template
 
 ------
 
