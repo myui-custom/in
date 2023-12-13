@@ -89,7 +89,7 @@ body {
     text-align: center;
     font-size: 20px;
     background: transparent;
-    color: #fff;
+    color: hsl(0, 0%, 100%);
     position: fixed;
     top: 0;
     right: 45vw;
@@ -106,7 +106,7 @@ body {
     height:10vw;
     text-align:center;
     font-size:20px;
-    transform:rotate(-90deg);
+    /*transform:rotate(-90deg);*/
     background:transparent;
     color:#fff;
     position:fixed;
@@ -124,7 +124,7 @@ body {
     height:10vw;
     text-align:center;
     font-size:20px;
-    transform:rotate(90deg);
+    /*transform:rotate(90deg);*/
     background:transparent;
     color:#fff;
     position:fixed;
